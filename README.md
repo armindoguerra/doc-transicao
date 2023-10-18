@@ -118,3 +118,21 @@ A viabilidade técnica do projeto é um aspecto crítico a ser considerado antes
 - Deve ser elaborado um orçamento que inclua custos associados à infraestrutura, hardware, software, e outros recursos necessários para a execução do projeto.
 
 Em resumo, a viabilidade técnica do projeto de pesquisa sobre Inteligência Artificial Generativa para AIOps depende da disponibilidade de recursos, do acesso a dados relevantes, da expertise da equipe, do tempo disponível e da capacidade de gerenciar as questões éticas e legais relacionadas. Uma avaliação completa desses fatores é crucial para garantir o sucesso e a conclusão bem-sucedida do projeto.
+
+-----
+
+Viabilidade Mercadológica:
+
+Aplicabilidade Prática: É crucial avaliar como os resultados da pesquisa podem ser aplicados no mercado. A pesquisa deve ser direcionada para atender às necessidades do setor de AIOps, contribuindo para melhorias na detecção de problemas, eficiência operacional e tomada de decisões.
+
+Potencial de Mercado: Analisar a demanda potencial por soluções baseadas na pesquisa é fundamental. Identificar o mercado-alvo, o tamanho desse mercado e as necessidades específicas que a pesquisa pode atender é importante para a viabilidade mercadológica.
+
+Concorrência e Diferenciação: Avaliar a concorrência existente no mercado de AIOps e determinar como a pesquisa pode diferenciar-se e oferecer vantagens competitivas.
+
+Parcerias Estratégicas: Parcerias com empresas que possam se beneficiar da pesquisa podem ser valiosas para garantir a aplicação prática dos resultados e para estabelecer conexões com o mercado.
+
+Impacto na Inovação: A pesquisa pode contribuir para a inovação no mercado de AIOps, e esse impacto deve ser avaliado. Inovações podem ser fontes de receita, especialmente se forem protegidas por patentes.
+
+Crescimento de Carreira e Recursos Humanos: A formação de recursos humanos qualificados na área de AIOps é um aspecto importante da viabilidade mercadológica, pois profissionais qualificados são sempre valorizados pelo mercado.
+
+A viabilidade econômica e mercadológica é crucial para garantir que a pesquisa tenha um impacto significativo e possa ser traduzida em soluções práticas e inovação. Ao considerar esses aspectos desde o início do projeto, os pesquisadores podem maximizar as chances de sucesso e contribuição para a academia e o mercado.
