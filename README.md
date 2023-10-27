@@ -97,3 +97,47 @@ Sustentabilidade e Responsabilidade Social: A modernização também pode afetar
 Formação de Pesquisadores e Profissionais: Além de sua relevância prática, o projeto oferece a oportunidade de formar pesquisadores e profissionais que adquirirão habilidades valiosas em pesquisa, análise de dados e inferência causal. Isso contribui para a formação de especialistas capazes de lidar com desafios complexos em gestão e administração.
 
 Em resumo, a pesquisa sobre inferência causal nas relações entre modernização, velocidade, produtividade, qualidade e eficiência é altamente relevante, não apenas para as organizações, mas também para a academia e a sociedade em geral. Suas descobertas podem ter um impacto significativo na forma como as empresas operam e tomam decisões estratégicas, ajudando a impulsionar a eficiência, qualidade e competitividade em um mundo em constante evolução.
+
+----------
+
+Gen AI
+
+
+**Resumo:**
+
+Este projeto de pesquisa de iniciação científica tem como objetivo explorar o campo da Inteligência Artificial Generativa (IAG) aplicada ao contexto de AIOps (Inteligência Artificial para Operações de TI). A proposta visa desenvolver e avaliar modelos generativos capazes de melhorar a eficiência e a eficácia das operações de TI por meio da automação e da geração de insights. A pesquisa se baseia em uma revisão bibliográfica abrangente sobre IAG e AIOps e empregará abordagens de aprendizado profundo, como Redes Generativas Adversariais (GANs) e Redes Neurais Recorrentes (RNNs). Os resultados esperados incluem a criação de modelos generativos aplicáveis a cenários de AIOps e uma avaliação quantitativa de seu desempenho.
+
+**1. Introdução e Justificativa:**
+
+A crescente complexidade das operações de TI e a necessidade de detectar e responder a incidentes em tempo real requerem abordagens avançadas de automação e análise de dados. A Inteligência Artificial Generativa (IAG) representa um campo promissor, pois permite a criação de dados e insights que podem ser usados para treinar modelos de AIOps. A integração de IAG em AIOps pode levar a melhorias significativas na eficiência, na detecção de problemas e na tomada de decisões.
+
+A literatura fundamental abordada para embasar esta pesquisa inclui estudos sobre IAG, como Redes Generativas Adversariais (GANs) e Redes Neurais Recorrentes (RNNs), bem como trabalhos relacionados a AIOps, técnicas de automação e análise de dados em operações de TI. A síntese destes estudos fundamenta a importância de explorar o potencial da IAG em contextos de AIOps.
+
+**2. Objetivos:**
+
+Os principais objetivos deste projeto são:
+
+2.1. Desenvolver modelos generativos de IAG aplicados a cenários de AIOps.
+
+2.2. Avaliar a capacidade dos modelos gerados em gerar dados realistas e insights úteis para operações de TI.
+
+2.3. Comparar o desempenho dos modelos gerativos com métodos tradicionais de AIOps.
+
+**3. Plano de Trabalho e Cronograma:**
+
+- **Mês 1-2:** Revisão da literatura sobre IAG e AIOps.
+- **Mês 3-4:** Aquisição e preparação de dados de operações de TI.
+- **Mês 5-7:** Desenvolvimento de modelos generativos, incluindo GANs e RNNs.
+- **Mês 8-9:** Treinamento e otimização dos modelos generativos.
+- **Mês 10-11:** Avaliação dos modelos gerados em cenários de AIOps.
+- **Mês 12:** Análise dos resultados, redação do relatório final e apresentação.
+
+**4. Material e Métodos:**
+
+Serão utilizados conjuntos de dados reais de operações de TI para treinamento e teste dos modelos generativos. Os modelos GANs e RNNs serão implementados usando frameworks de aprendizado profundo, como TensorFlow ou PyTorch. A avaliação dos modelos envolverá métricas de desempenho, como precisão na geração de dados e utilidade dos insights gerados.
+
+**5. Forma de Análise dos Resultados:**
+
+Os resultados serão analisados quantitativamente, comparando o desempenho dos modelos generativos com métricas de referência. A análise incluirá testes estatísticos para determinar a significância das melhorias obtidas com a aplicação da IAG em cenários de AIOps. A interpretação qualitativa dos insights gerados também será considerada na avaliação do valor prático dos modelos generativos.
+
+Este projeto de iniciação científica visa contribuir para o avanço do campo de AIOps ao explorar o potencial da Inteligência Artificial Generativa na automação e na melhoria das operações de TI. Além disso, a pesquisa pode fornecer insights valiosos para a implementação prática de sistemas de AIOps mais eficazes e eficientes.
